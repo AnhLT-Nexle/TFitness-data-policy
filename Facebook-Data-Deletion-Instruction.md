@@ -19,8 +19,12 @@ If you want to delete your activities for TFitness App, you can remove your info
 5. Congratulations, you have successfully removed your app activities.
 
 If you can't find the "Apps and Websites" option then you can open this link "https://www.facebook.com/settings/?tab=applications"
+
 After that, select remove at the TFitness item
-![](file:///Screen%20Shot%202022-10-19%20at%2013.22.15.png)
+
+<img width="1676" alt="Screen Shot 2022-10-19 at 13 22 15" src="https://user-images.githubusercontent.com/96031601/196613910-6babbbcd-aa93-4c1a-95a6-91ee10aa8cd3.png">
+
 
 We also provide the delete account feature in our application.
-![](file:///Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-10-19%20at%2013.28.25.png)
+
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-10-19 at 13 28 25](https://user-images.githubusercontent.com/96031601/196613929-4b63f827-7797-4b23-8f3a-674f38a447b1.png)
