@@ -9,6 +9,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at TFitness unless otherwise defined in this Privacy Policy.
 
 ### Information Collection and Use
+
 For a better experience, while using our Service, We may require you to provide us with certain personally identifiable information[e.g. user's name, age, birthday, height, weight, pictures etc...] The information that we request will be retained on your device and to to our server.
 
 The app does use third party services that may collect information used to identify you.
@@ -39,6 +40,13 @@ This Service may contain links to other sites. If you click on a third-party lin
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case We discover that a child under 13 has provided us with personal information, We immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 ### Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+### Facebook Data Collection and Use
+
+TFitness application uses Facebook Login to get access to your data (your name and your email). This data is only used for display purposes on our application.
+If you want to delete your activities for TFitness App, you can remove your information by following the guide:
+
+- [TFitness Facebook Data Deletion Instrucion](https://github.com/AnhLT-Nexle/TFitness-data-policy/blob/main/Facebook-Data-Deletion-Instruction.md)
 
 ### Contact
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at TFitness.
