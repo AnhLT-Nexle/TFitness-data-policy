@@ -44,6 +44,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### Facebook Data Collection and Use
 
 TFitness application uses Facebook Login to get access to your data (your name and your email). This data is only used for display purposes on our application.
+
 If you want to delete your activities for TFitness App, you can remove your information by following the guide:
 
 - [TFitness Facebook Data Deletion Instrucion](https://github.com/AnhLT-Nexle/TFitness-data-policy/blob/main/Facebook-Data-Deletion-Instruction.md)
